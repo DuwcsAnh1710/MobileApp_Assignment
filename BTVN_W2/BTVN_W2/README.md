@@ -16,6 +16,6 @@ Sau đó, nếu hợp lệ, em dùng when để kiểm tra tuổi và phân lo�
 ---
 Kết quả màn hình hiển thị trên LDplayer
 
-![TH2_W2](https://github.com/user-attachments/assets/bb12f568-9f77-4fb0-97c7-50a78e13df55)
+![BTVN_W2](https://github.com/user-attachments/assets/690c83df-94b0-4e9e-a08b-2fb7fe223e45)
 
 ---
