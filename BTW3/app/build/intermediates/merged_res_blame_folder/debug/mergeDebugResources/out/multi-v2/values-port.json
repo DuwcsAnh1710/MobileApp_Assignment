@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.week2.bt_w3.app-mergeDebugResources-63:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dell G16\\.gradle\\caches\\8.11.1\\transforms\\07bed23469dc56ecfaca87df37447807\\transformed\\appcompat-1.7.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
